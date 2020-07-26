@@ -1,0 +1,13 @@
+.NavBar{
+    background-color: blueviolet;
+    color:wheat;
+    font-family: sans-serif;
+    width:100%;
+    display:flex;
+    padding:10px;
+    height:70px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+   align-items: center;
+}
