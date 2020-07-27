@@ -1,6 +1,0 @@
-.Logo{
-    transition:transform 0.5s;
-}
-.Logo:Hover{
-    transform:translateX(50px);
-}
